@@ -1,0 +1,28 @@
+{
+  "name": "buzzz",
+  "version": "1.0.0",
+  "description": "Dating for dogs",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robert-G-J/buzzz.git"
+  },
+  "author": "Robert Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robert-G-J/buzzz/issues"
+  },
+  "homepage": "https://github.com/Robert-G-J/buzzz#readme",
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "style-loader": "^0.19.0",
+    "webpack": "^3.10.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
